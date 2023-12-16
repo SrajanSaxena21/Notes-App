@@ -12,3 +12,7 @@ How to run the program:
 5) Then to clone the files, type "git clone https://github.com/SrajanSaxena21/Notes-App.git"
 6) And finally in cmd, type "npm start"
 7) It will take you to localhost:3000 and you can see the site running
+
+Preview:
+
+![image](https://github.com/SrajanSaxena21/Notes-App/assets/93009978/e29ec69b-fcf8-4f66-a230-68aedc1c2c98)
